@@ -1,0 +1,12 @@
+{
+    "applinks": {
+        "apps":[],
+        "details":
+        [
+            {
+                "appID":"T8N8M63J2P.com.passboards.Passboards",
+                "paths":["/users/*","/boards/*","/articles/*"]
+            }
+        ]
+    }
+}
